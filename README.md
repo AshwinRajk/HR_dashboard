@@ -16,9 +16,12 @@ Usage
 To view the dashboard, follow these steps:
 
 1.Prerequisites: Ensure that you have Tableau Desktop or Tableau Reader installed on your machine.
+
 2.Clone the Repository: Clone this GitHub repository to your local machine using the following command:
 git clone https://github.com/AshwinRajk/HR_dashboard.git
+
 3.Open in Tableau: Open the .twb file in Tableau Desktop or Tableau Reader.
+
 4.Explore the Dashboard: Interact with the dashboard by selecting filters, hovering over data points, and exploring different visualizations.
 
 Contributing
